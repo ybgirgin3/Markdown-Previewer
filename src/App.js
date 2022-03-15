@@ -2,6 +2,9 @@ import React from 'react';
 import Badge from 'react-bootstrap/Badge';
 import { marked } from 'marked';
 
+// ! TODO:
+// https://javascript.plainenglish.io/migrate-existing-web-react-app-to-desktop-app-with-electron-a7007128120e
+
 export default class App extends React.Component {
   constructor(props) {
     super(props);
